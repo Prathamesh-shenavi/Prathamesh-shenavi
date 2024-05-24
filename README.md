@@ -10,7 +10,10 @@
 - 📄 Know about my experiences [https://prathamesh-shenavi.github.io/Resume-01/](https://prathamesh-shenavi.github.io/Resume-01/)
 
 - ⚡ Fun fact **Java & JavaScript are 2 different things.**
+## 🔗 Links
+[🔗Internship Letter](https://drive.google.com/file/d/1a0vhyQwbuGfNpC-f9y5TF8oUWOzJs-wb/view)
 
+[🔗Letter of Recommendation](https://drive.google.com/file/d/1JZehHK_pLBsM_hVdw1DJ0gAtcA4igZ3v/view)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/prathamesh-shenavi-4b8651228" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prathamesh-shenavi-4b8651228" height="30" width="40" /></a>
