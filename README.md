@@ -1,3 +1,4 @@
+![Logo](./github-header-image.png)
 <h1 align="center">Hi 👋, I'm Prathamesh Shenavi</h1>
 <h3 align="center">I am Software Developer with experience in Backend Development.</h3>
 
